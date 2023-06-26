@@ -1,3 +1,5 @@
 # JUNECOHORT
-# JUNECOHORT
-# hi this is my first time trying this :)
+
+ hi this is my first time trying this
+
+ 
